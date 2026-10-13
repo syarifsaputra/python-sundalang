@@ -1,0 +1,18 @@
+mimiti
+# Ini adalah contoh perhitungan Matematika di SundaLang
+angka1 = 20
+angka2 = 10
+
+# Melakukan Operasi Matematika
+tambah = angka1 + angka2
+kurang = angka1 - angka2
+kali = angka1 * angka2
+bagi = angka1 / angka2
+
+# Mencetak Hasilnya ke Layar
+tingalikeun "--- Hasil Perhitungan SundaLang ---"
+tingalikeun "Penjumlahan: ", tambah
+tingalikeun "Pengurangan: ", kurang
+tingalikeun "Perkalian: ", kali
+tingalikeun "Pembagian: ", bagi
+tungtungna

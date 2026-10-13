@@ -1,0 +1,24 @@
+mimiti
+# Contoh program SundaLang dengan percabangan (upami/lamun_hente)
+# dan perulangan (ari), menunjukkan blok ditutup dengan 'anggeus'
+
+nilai = 80
+
+upami nilai >= 75
+    tingalikeun "Lulus, nilai na:", nilai
+lamun_hente
+    tingalikeun "Teu lulus, nilai na:", nilai
+anggeus
+
+# Contoh perulangan: cetak ganjil/genap dari 0 sampai 4
+i = 0
+ari i < 5
+    upami i % 2 == 0
+        tingalikeun i, "- genap"
+    lamun_hente
+        tingalikeun i, "- ganjil"
+    anggeus
+    i = i + 1
+anggeus
+
+tungtungna

@@ -1,0 +1,9 @@
+mimiti
+nilai = 80
+
+upami nilai >= 75
+    tingalikeun "Lulus, nilai na:", nilai
+lamun_hente
+    tingalikeun "Teu lulus, nilai na:", nilai
+anggeus
+tungtungna
